@@ -4,12 +4,6 @@
   src: url(fonts/ArialMT.woff) format('woff'); 
 }
 
-@font-face {
-  font-family: 'Socialico';
-  src: url(Socialico/Socialico.ttf) format('truetype');
-  src: url(Socialico/Socialico.woff) format('woff');
-}
-
 body {
   background-color: #fff;
   font-family: 'Arial MT', sans-serif;
@@ -248,6 +242,8 @@ video {
   line-height: 50px;
 }
 
+
+
 .buyNowCard ol {
   color: #fff;
   font-size: 14px;
@@ -343,7 +339,7 @@ form input[type="submit"] {
 }
 
 .icon {
-  font-family: 'Socialico';
+  font-family: 'ArialMt';
   font-size: 60px;
   line-height: 1.5em;
   color: #fff;
